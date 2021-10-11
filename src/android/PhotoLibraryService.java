@@ -674,7 +674,7 @@ public class PhotoLibraryService {
 
   public interface FilePathRunnable {
 
-    void run(String filePath, uri);
+    void run(String filePath,  Uri uri);
 
   }
 
